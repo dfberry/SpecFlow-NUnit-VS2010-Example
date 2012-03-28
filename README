@@ -4,4 +4,6 @@ I couldn't get this to run from inside Visual Studio but it does run the test fr
 
 This was my attempt to try SpecFlow at it's most basical without anything else around. I needed NUnit to run the SpecFlow test. NUnit also allows continous integration (via settings) which MSTest doesn't allow easily.
 
+When you run the test, an error will be the result. That is as expected. 120!=130
+
 dina@berryintl.com
